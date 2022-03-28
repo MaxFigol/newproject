@@ -29,3 +29,4 @@ const obj = {
 const newObj = {...obj};
 newObj.a = 43;
 console.log(newObj);
+console.log(obj);
